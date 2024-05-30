@@ -1,0 +1,13 @@
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\xy\Desktop\Inginerie software\InsuranceBroker\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
